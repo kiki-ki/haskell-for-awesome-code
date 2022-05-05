@@ -1,0 +1,1 @@
+twice num = num * 2
